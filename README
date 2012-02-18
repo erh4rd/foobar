@@ -12,3 +12,17 @@ Erhard, Feb '12
 
 	$ git commit -m "<your comment>"
 
+	$ git remote add origin git@github.com:erh4rd/foobar.git
+
+	$ git push origin master
+
+1) Changes
+
+	$ touch <file name>
+
+	$ git add <file name>
+
+	$ git commit -m "<your comment>"
+
+	$ git push origin master
+
