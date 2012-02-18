@@ -2,3 +2,13 @@ This project is to learn the ins and outs of GitHub
 
 Erhard, Feb '12
 
+1) Setup
+
+	$ get init
+
+	$ touch <file name>
+
+	$ git add <file name>
+
+	$ git commit -m "<your comment>"
+
